@@ -407,3 +407,4 @@ BLECLI >> Enter data read from characteristic (in hex) :
 ```
 
 The write data is to be copied from the console output ```>>``` to the platform specific application and the data read from the application is to be pasted at the user input prompt ```<<``` of the console, in the format (hex) indicated in above sample log.
+"# wifi_prov_mgr_week13" 
